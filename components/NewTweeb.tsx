@@ -155,7 +155,7 @@ const styles = StyleSheet.create({
     borderRadius: 8,
   },
   deleteButton: {
-    fontSize: 12,
+    fontSize: 14,
     color: "#6B7280",
   },
   buttonContainer: {

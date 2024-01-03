@@ -82,7 +82,8 @@ const styles = StyleSheet.create({
     marginRight: 12,
   },
   headerText: {
-    flex: 1,
+    flex: 0.4,
+    flexDirection: "row",
   },
   author: {
     fontSize: 16,
@@ -117,11 +118,11 @@ const styles = StyleSheet.create({
   },
   imageContainer: {
     flexDirection: "row",
-    gap: 8,
+    gap: 4,
   },
   image: {
-    width: 120,
-    height: 120,
+    width: 150,
+    height: 150,
     borderRadius: 8,
   },
   footer: {
